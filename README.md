@@ -4,15 +4,15 @@ Google Certified, Data Analyst with a proven track record of transforming raw da
 
 ### 💼 I specialize in:
 
-✅ Data Analysis (Data wrangling/cleaning, Data mining, Data transformations, ETL processes )
-✅ SQL: Proficient in crafting complex queries for data extraction, transformation, and analysis.
-✅ BigQuery: Expertise in Google Cloud's powerful BigQuery for scalable data processing.
-✅ Tableau: Creating interactive, insightful dashboards for data visualisation.
-✅ Python & R programming: Employing these languages for data cleansing, modeling, and machine learning.
-✅ Data visualisation: (Tableau, Python matplotlib, seaborn, plotly, Dash, R ggplot, Gephi, Cytoscape)
-✅ Presentation and Reports: (R and Python Notebooks, Report writing, slides presentations)
-✅ Machine Learning (classification, clustering, regression analysis and reinforcement learning)
-✅ Social Network Analysis (Node classifications, Community detections, Centrality Measures, Information diffusion )
+- **Data Analysis** (Data wrangling/cleaning, Data mining, Data transformations, ETL processes )
+- **SQL** Proficient in crafting complex queries for data extraction, transformation, and analysis.
+- **BigQuery** Expertise in Google Cloud's powerful BigQuery for scalable data processing.
+- **Tableau** Creating interactive, insightful dashboards for data visualisation.
+- **Python & R programming** Employing these languages for data cleansing, modeling, and machine learning.
+- **Data visualisation** (Tableau, Python matplotlib, seaborn, plotly, Dash, R ggplot, Gephi, Cytoscape)
+- **Presentation and Reports** (R and Python Notebooks, Report writing, slides presentations)
+- **Machine Learning** (classification, clustering, regression analysis and reinforcement learning)
+- **Social Network Analysis** (Node classifications, Community detections, Centrality Measures, Information diffusion )
 
 Using all of the above technqiues to make Data driven insights and decision makings
 
