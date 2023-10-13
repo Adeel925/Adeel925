@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adeel925
+##  👋 Hi, I’m @Adeel925
 
 Google Certified, Data Analyst with a proven track record of transforming raw data into actionable insights. I hold a Master's and Bachelor's degree in Data Science and Computer Science, and I'm equipped with a Google Data Analytics Professional Certificate.
 
-💼 I specialize in:
+### 💼 I specialize in:
 
 ✅ Data Analysis (Data wrangling/cleaning, Data mining, Data transformations, ETL processes )
 ✅ SQL: Proficient in crafting complex queries for data extraction, transformation, and analysis.
@@ -16,17 +16,18 @@ Google Certified, Data Analyst with a proven track record of transforming raw da
 
 Using all of the above technqiues to make Data driven insights and decision makings
 
-💡 My Steps for data analysis are as following:
+### 💡 My Steps for data analysis are as following:
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Predictive Modeling & Machine Learning
+- Use of network science principles and machine learning using graphs
 - Time-Series Analysis
 - A/B Testing & Hypothesis Testing
 - Interactive Dashboards & Reporting
 
-  
-- 📫 How to reach me here is my
+### 📫 How to reach me here is my
+
 -  LinkedIn: https://www.linkedin.com/in/adeel-javed-917057141/
 -  Upwork: https://www.upwork.com/freelancers/~0137d36722d76fc3bc
 -  Tablaue Public: https://public.tableau.com/app/profile/adeel.javed/vizzes
